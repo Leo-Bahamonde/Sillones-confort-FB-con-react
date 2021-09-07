@@ -1,0 +1,16 @@
+.titleh1{
+    font-size: 8em;
+    font-weight: 700;
+    margin: 0;
+    background: -webkit-linear-gradient(rgb(255, 255, 255),#4e6773);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: rgb(255, 255, 255);
+}
+
+@media (max-width: 600px){
+    .titleh1{
+        font-size: 50px;
+    }
+}
+
